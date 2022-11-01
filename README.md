@@ -1,6 +1,9 @@
 # pose_estimation
 
 <!--
+#field
+AI
+
 #groups
 Computer Vision
 
